@@ -1,5 +1,8 @@
 # AI Code Agent
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An autonomous AI agent that performs code review, generates code, detects bugs, and integrates with development workflows.
 
 ## Features
